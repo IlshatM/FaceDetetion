@@ -20,3 +20,6 @@
 2. Создать API-gateway `vvot05-boot-gateway`. YML в папке `vvot05-boot`.
 3. Зарегестрировать бота в bot_father в телеграмм.
 4. Зарегистрировать функцию как вебхук `https://api.telegram.org/bot{my_bot_token}/setWebhook?url={url_to_send_updates_to}`. Достаточно просто вбить url в браузере.
+### Результат
+1. Бот доступен по [ссылке](https://t.me/vvot05_bot).
+2. На момент написания Readme есть несколько фото без названий. Есть фото с названием face-1.
